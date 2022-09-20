@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Avtar sahani
+- 👀 I’m interested in Data...
+- 🌱 I’m currently an aspiring data analyst .....
+- 📫 How to reach me sahaniavtar1@gmail.com  ...
+
+<!---
+Avtar7678/Avtar7678 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
